@@ -53,15 +53,15 @@ var productes = {
     },
 
     //Салаты
-    'b1': {
+    'a7': {
         "category": "Салаты",
-        "name": "Сельдь на бородинском хлебе",
-        "desk": "С яйцом и огурцом",
-        "price": 240,
-        "img": "https://deffiartcafe.ru/wp-content/uploads/2019/07/800%D0%B0-copy.jpg"
+        "name": "Борщ для Саши",
+        "desk": "С кабустой и картошкой",
+        "price": 1200,
+        "img": "https://eda.ru/img/eda/c350x350i/s2.eda.ru/StaticContent/Photos/120213174921/1202131749503/p_O.jpg"
     },
 
-    'b2': {
+    'b1': {
         "category": "Салаты",
         "name": "Соленья ассорти",
         "desk": "С редиской и огурцом",
@@ -69,7 +69,7 @@ var productes = {
         "img": "https://just-eat.by/image/data/shops/29685/49191.jpg"
     },
 
-    'b3': {
+    'b2': {
         "category": "Салаты",
         "name": "Грибы маринованные",
         "desk": "С грибами и луком",
@@ -77,7 +77,7 @@ var productes = {
         "img": "https://f8.pmo.ee/CM6l0WWCTnKWO65BqbaSIyvg8Gk=/685x0/smart/nginx/o/2020/08/23/13293524t1h525f.jpg"
     },
 
-    'b4': {
+    'b3': {
         "category": "Салаты",
         "name": "Сало домашнее с горчицей",
         "desk": "С салом и горчицей",
