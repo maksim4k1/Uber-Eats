@@ -53,14 +53,6 @@ var productes = {
     },
 
     //Салаты
-    'a7': {
-        "category": "Салаты",
-        "name": "Борщ для Саши",
-        "desk": "С кабустой и картошкой",
-        "price": 1200,
-        "img": "https://eda.ru/img/eda/c350x350i/s2.eda.ru/StaticContent/Photos/120213174921/1202131749503/p_O.jpg"
-    },
-
     'b1': {
         "category": "Салаты",
         "name": "Соленья ассорти",
